@@ -10,6 +10,6 @@
   "license": "MIT",
   "dependencies": {
     "lodash": "^4.17.21",
-    "unist-util-visit": "^2.0.3"
+    "unist-util-visit": "^4.1.0"
   }
 }
