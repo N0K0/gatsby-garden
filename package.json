@@ -24,11 +24,11 @@
     "clean": "gatsby clean"
   },
   "dependencies": {
-    "@mdx-js/mdx": "^1.6.22",
+    "@mdx-js/mdx": "^2.0.0",
     "@mdx-js/react": "^1.6.22",
     "@tippyjs/react": "^4.2.6",
     "bootstrap": "^4.6.0",
-    "d3": "^5.5.0",
+    "d3": "^7.0.0",
     "gatsby": "^4.2.0",
     "gatsby-awesome-pagination": "^0.3.6",
     "gatsby-plugin-dark-mode": "^1.1.2",
